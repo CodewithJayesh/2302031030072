@@ -1,0 +1,331 @@
+<<<<<<< HEAD
+.ellipse-shape-icon1 {
+=======
+.ellipse-shape-icon {
+
+>>>>>>> Incoming
+  width: 210px;
+  height: 184px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+<<<<<<< HEAD
+.rectangle-div {
+=======
+.password-frame-child {
+
+>>>>>>> Incoming
+  height: 42px;
+  width: 414px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.user-name1 {
+=======
+.user-name {
+
+>>>>>>> Incoming
+  height: 34px;
+  width: 140px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.password-frame-child1,
+.password-frame3 {
+=======
+.password-frame {
+  align-self: stretch;
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  max-width: 100%;
+}
+.password-frame3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: var(--padding-5xs) var(--padding-lgi) 0;
+=======
+  padding: var(--padding-5xs) var(--padding-lgi) 0px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+  white-space: nowrap;
+<<<<<<< HEAD
+=======
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.password-frame-child1 {
+  height: 42px;
+  width: 414px;
+  position: relative;
+  display: none;
+}
+.password2 {
+=======
+.password1 {
+
+>>>>>>> Incoming
+  margin: 0;
+}
+<<<<<<< HEAD
+.password1 {
+=======
+.password {
+
+>>>>>>> Incoming
+  height: 40px;
+  width: 124px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.inner-frame-child,
+.password-frame4 {
+=======
+.password-frame1 {
+  align-self: stretch;
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+}
+.password-frame4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: var(--padding-11xs) var(--padding-lgi) 0;
+=======
+  padding: var(--padding-11xs) var(--padding-lgi) 0px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.inner-frame-child {
+=======
+.inner-frame-item {
+
+>>>>>>> Incoming
+  height: 39px;
+  width: 130px;
+  position: relative;
+<<<<<<< HEAD
+=======
+  background-color: var(--color-gainsboro);
+
+>>>>>>> Incoming
+  display: none;
+}
+.sign-in2 {
+  height: 39px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.inner-frame1,
+.sign-in-label {
+=======
+.inner-frame1 {
+  width: 133px;
+  background-color: var(--color-gainsboro);
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.inner-frame1 {
+  width: 133px;
+  background-color: var(--color-gainsboro);
+  justify-content: flex-end;
+<<<<<<< HEAD
+  padding: var(--padding-12xs) 0 0 29px;
+=======
+  padding: var(--padding-12xs) 0px 0px 29px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.sign-in-label {
+  align-self: stretch;
+<<<<<<< HEAD
+=======
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: center;
+<<<<<<< HEAD
+  padding: 0 var(--padding-xl);
+=======
+  padding: 0px var(--padding-xl);
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.user-name-frame1 {
+=======
+.user-name-frame {
+
+>>>>>>> Incoming
+  width: 414px;
+<<<<<<< HEAD
+=======
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: column;
+<<<<<<< HEAD
+=======
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: flex-start;
+<<<<<<< HEAD
+  gap: 54px 0;
+=======
+  gap: 54px;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+.main-frame,
+.sign-in1,
+.user-name-frame1 {
+  display: flex;
+  align-items: flex-start;
+}
+.main-frame {
+  align-self: stretch;
+<<<<<<< HEAD
+=======
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: row;
+<<<<<<< HEAD
+=======
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: center;
+  max-width: 100%;
+}
+.sign-in1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+<<<<<<< HEAD
+=======
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: column;
+<<<<<<< HEAD
+=======
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: 0 105px 418px 77px;
+=======
+  padding: 0px var(--padding-86xl) 418px 77px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+<<<<<<< HEAD
+  gap: 190px 0;
+=======
+  gap: 190px;
+
+>>>>>>> Incoming
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+<<<<<<< HEAD
+@media screen and (max-width: 725px) {
+=======
+
+@media screen and (max-width: 675px) {
+
+>>>>>>> Incoming
+  .sign-in1 {
+<<<<<<< HEAD
+    gap: 95px 0;
+=======
+    gap: 95px;
+
+>>>>>>> Incoming
+    padding-left: 38px;
+<<<<<<< HEAD
+    padding-right: 52px;
+=======
+    padding-right: var(--padding-33xl);
+
+>>>>>>> Incoming
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+<<<<<<< HEAD
+  .password1 {
+=======
+  .password {
+
+>>>>>>> Incoming
+    font-size: 16px;
+  }
+<<<<<<< HEAD
+  .user-name-frame1 {
+    gap: 27px 0;
+=======
+
+  .user-name-frame {
+    gap: 27px;
+
+>>>>>>> Incoming
+  }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> Incoming
+  .sign-in1 {
+<<<<<<< HEAD
+    gap: 47px 0;
+=======
+    gap: var(--gap-28xl);
+
+>>>>>>> Incoming
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

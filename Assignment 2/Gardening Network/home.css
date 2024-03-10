@@ -1,0 +1,665 @@
+<<<<<<< HEAD
+.parent-frame-icon {
+=======
+.child-ellipse-icon {
+  position: absolute;
+  height: 100%;
+  top: 0px;
+  bottom: 0px;
+  left: 86px;
+  border-radius: 50%;
+  max-height: 100%;
+
+>>>>>>> Incoming
+  width: 210px;
+<<<<<<< HEAD
+=======
+  object-fit: cover;
+}
+.parent-frame-child {
+  position: absolute;
+  top: 183.5px;
+  left: 0px;
+  width: 1440px;
+  height: 0.5px;
+  object-fit: contain;
+  z-index: 1;
+}
+.parent-frame {
+  align-self: stretch;
+
+>>>>>>> Incoming
+  height: 184px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+<<<<<<< HEAD
+.seed-frame-icon {
+  height: 636px;
+  width: 614px;
+=======
+.child-rectangle-icon {
+  height: 836px;
+  width: 513px;
+
+>>>>>>> Incoming
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.subframes-child {
+  height: 61px;
+  width: 373px;
+  position: relative;
+  border-radius: var(--br-3xs);
+=======
+.child-rectangle {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-xl);
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+<<<<<<< HEAD
+  display: none;
+  max-width: 100%;
+=======
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.about-flowers {
+=======
+.about-flowers1 {
+  height: 48px;
+  width: 272px;
+
+>>>>>>> Incoming
+  position: relative;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+<<<<<<< HEAD
+=======
+  display: inline-block;
+
+>>>>>>> Incoming
+  cursor: pointer;
+=======
+.sign-up-as {
+  position: absolute;
+  top: 24px;
+  left: 150px;
+
+>>>>>>> Incoming
+  z-index: 1;
+}
+<<<<<<< HEAD
+.subframes,
+.subframes-item {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  max-width: 100%;
+}
+.subframes {
+  cursor: pointer;
+<<<<<<< HEAD
+  border: 0;
+=======
+  border: none;
+
+>>>>>>> Incoming
+  padding: 7px 50px var(--padding-7xs) var(--padding-32xl);
+<<<<<<< HEAD
+=======
+  background-color: var(--color-gainsboro);
+  border-radius: var(--br-3xs);
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+<<<<<<< HEAD
+=======
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+.subframes:hover {
+  background-color: var(--color-silver);
+}
+<<<<<<< HEAD
+.subframes-item {
+  height: 61px;
+  width: 373px;
+=======
+.sign-up-button {
+  align-self: stretch;
+  height: 96px;
+
+>>>>>>> Incoming
+  position: relative;
+  display: none;
+}
+<<<<<<< HEAD
+.idea-about-seeds {
+=======
+.third-level-frame-child {
+  align-self: stretch;
+
+>>>>>>> Incoming
+=======
+.idea-about-seeds1 {
+  height: 48px;
+
+>>>>>>> Incoming
+  flex: 1;
+  position: relative;
+<<<<<<< HEAD
+  white-space: pre-wrap;
+  display: inline-block;
+  max-width: 100%;
+  cursor: pointer;
+  z-index: 1;
+}
+.subframes-inner,
+.subframes1 {
+<<<<<<< HEAD
+=======
+  align-self: stretch;
+
+>>>>>>> Incoming
+  border-radius: var(--br-3xs);
+=======
+  border-radius: var(--br-xl);
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.subframes1 {
+=======
+.sign-in {
+
+>>>>>>> Incoming
+  align-self: stretch;
+<<<<<<< HEAD
+=======
+  height: 59px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+.sign-in-wrapper {
+  width: 252px;
+
+>>>>>>> Incoming
+  display: flex;
+<<<<<<< HEAD
+  flex-direction: row;
+=======
+  flex-direction: column;
+
+>>>>>>> Incoming
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+<<<<<<< HEAD
+  padding: 0 var(--padding-5xl) 13px 0;
+=======
+  padding: var(--padding-7xs) 0px 0px;
+
+>>>>>>> Incoming
+=======
+  padding: 0px var(--padding-5xl) 13px 0px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+<<<<<<< HEAD
+  white-space: nowrap;
+<<<<<<< HEAD
+=======
+  margin-left: -238px;
+
+>>>>>>> Incoming
+=======
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.subframes-inner {
+  height: 61px;
+  width: 373px;
+  position: relative;
+  display: none;
+}
+.information {
+=======
+.information1 {
+  height: 48px;
+
+>>>>>>> Incoming
+  width: 249px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  cursor: pointer;
+  z-index: 1;
+}
+.subframes-child1,
+.subframes2 {
+<<<<<<< HEAD
+=======
+  align-self: stretch;
+
+>>>>>>> Incoming
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  max-width: 100%;
+}
+.subframes2 {
+=======
+.third-level-frame {
+
+>>>>>>> Incoming
+  align-self: stretch;
+<<<<<<< HEAD
+=======
+  width: 369px;
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+<<<<<<< HEAD
+  padding: var(--padding-sm) var(--padding-16xl) 0;
+=======
+  padding: var(--padding-sm) var(--padding-16xl) 0px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+  white-space: nowrap;
+=======
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.subframes-child1 {
+  height: 61px;
+  width: 373px;
+  position: relative;
+  display: none;
+}
+.contact-us {
+=======
+.contact-us1 {
+  height: 48px;
+
+>>>>>>> Incoming
+  width: 235px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  z-index: 1;
+}
+.subframes-parent,
+.subframes3 {
+=======
+.third-level-frame-wrapper {
+
+>>>>>>> Incoming
+  align-self: stretch;
+<<<<<<< HEAD
+  justify-content: flex-start;
+}
+.subframes3 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+=======
+  height: 65px;
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+<<<<<<< HEAD
+<<<<<<< HEAD
+  padding: var(--padding-12xs) var(--padding-16xl) 12px;
+=======
+  justify-content: center;
+  padding: 0px var(--padding-xl);
+
+>>>>>>> Incoming
+=======
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-16xl) var(--padding-xs);
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.subframes-parent {
+=======
+.grandchild-rectangle {
+  align-self: stretch;
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: column;
+  gap: 42.67px 0;
+}
+.contact-frame,
+.seed-frame-parent,
+.subframes-parent {
+  display: flex;
+  align-items: flex-start;
+<<<<<<< HEAD
+=======
+  justify-content: flex-start;
+<<<<<<< HEAD
+  gap: 72px;
+
+>>>>>>> Incoming
+=======
+  gap: 42.67px;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+.contact-frame {
+=======
+.contact-frame1 {
+
+>>>>>>> Incoming
+  width: 373px;
+=======
+.nested-frame {
+  width: 606px;
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: column;
+<<<<<<< HEAD
+=======
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: flex-start;
+<<<<<<< HEAD
+<<<<<<< HEAD
+  padding: 131px 0 0;
+=======
+  padding: 209px 0px 0px;
+
+>>>>>>> Incoming
+=======
+  padding: 131px 0px 0px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+<<<<<<< HEAD
+  min-width: 373px;
+=======
+  min-width: 606px;
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.seed-frame-parent {
+  flex: 1;
+=======
+.secondary-frame {
+  width: 1346px;
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: row;
+<<<<<<< HEAD
+=======
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: space-between;
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  max-width: 100%;
+
+>>>>>>> Incoming
+  gap: var(--gap-xl);
+}
+<<<<<<< HEAD
+.home-inner,
+.home1 {
+=======
+.home-inner {
+  align-self: stretch;
+
+>>>>>>> Incoming
+  display: flex;
+<<<<<<< HEAD
+=======
+  flex-direction: row;
+
+>>>>>>> Incoming
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+=======
+  padding: 0px var(--padding-xl) 0px 0px;
+
+>>>>>>> Incoming
+=======
+  padding: 0px 41px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+}
+.home-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 41px;
+  max-width: 100%;
+<<<<<<< HEAD
+=======
+  gap: var(--gap-xl);
+
+>>>>>>> Incoming
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+<<<<<<< HEAD
+.home1 {
+=======
+.home {
+
+>>>>>>> Incoming
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+<<<<<<< HEAD
+=======
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: column;
+<<<<<<< HEAD
+  padding: 0 102px 82px 65px;
+  gap: 122px 0;
+=======
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  gap: 4px;
+
+>>>>>>> Incoming
+=======
+  padding: 0px 102px 82px 65px;
+  box-sizing: border-box;
+  gap: 122px;
+
+>>>>>>> Incoming
+  letter-spacing: normal;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+@media screen and (max-width: 1275px) {
+  .contact-frame,
+=======
+
+@media screen and (max-width: 750px) {
+
+>>>>>>> Incoming
+  .seed-frame-icon {
+    flex: 1;
+<<<<<<< HEAD
+=======
+=======
+  }
+
+>>>>>>> Incoming
+
+<<<<<<< HEAD
+@media screen and (max-width: 750px) {
+  .sign-up-as {
+    font-size: var(--font-size-13xl);
+=======
+  .contact-frame1 {
+    flex: 1;
+  }
+
+>>>>>>> Incoming
+
+>>>>>>> Incoming
+  }
+  .seed-frame-parent {
+    flex-wrap: wrap;
+  }
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+@media screen and (max-width: 750px) {
+  .contact-frame {
+    padding-top: 85px;
+=======
+@media screen and (max-width: 675px) {
+  .subframes {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+
+>>>>>>> Incoming
+    box-sizing: border-box;
+    min-width: 100%;
+=======
+@media screen and (max-width: 675px) {
+  .sign-up-as {
+    font-size: var(--font-size-5xl);
+
+>>>>>>> Incoming
+  }
+<<<<<<< HEAD
+  .home1 {
+    gap: 61px 0;
+    padding-left: 32px;
+    padding-right: var(--padding-32xl);
+=======
+
+<<<<<<< HEAD
+  .grandchild-rectangle {
+    gap: var(--gap-lg);
+=======
+  .subframes-parent {
+    gap: var(--gap-2xl);
+
+>>>>>>> Incoming
+  }
+
+<<<<<<< HEAD
+  .nested-frame {
+    padding-top: 136px;
+
+>>>>>>> Incoming
+=======
+  .home {
+    gap: var(--gap-11xl);
+    padding-right: var(--padding-xl);
+
+>>>>>>> Incoming
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+<<<<<<< HEAD
+<<<<<<< HEAD
+  .subframes {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+=======
+  .contact-frame1 {
+    padding-top: 85px;
+
+>>>>>>> Incoming
+    box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  .grandchild-rectangle {
+    gap: var(--gap-17xl);
+
+>>>>>>> Incoming
+=======
+    min-width: 100%;
+
+>>>>>>> Incoming
+  }
+<<<<<<< HEAD
+  .subframes-parent {
+    gap: 21px 0;
+=======
+
+<<<<<<< HEAD
+  .nested-frame {
+    min-width: 100%;
+
+>>>>>>> Incoming
+  }
+  .home1 {
+    gap: 30px 0;
+    padding-right: var(--padding-xl);
+=======
+  .home {
+    gap: 61px;
+    padding-left: 32px;
+    padding-right: var(--padding-32xl);
+
+>>>>>>> Incoming
+    box-sizing: border-box;
+  }
+}

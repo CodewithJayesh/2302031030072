@@ -1,0 +1,127 @@
+.frame-child {
+  position: absolute;
+  top: 183.5px;
+  left: 0px;
+  width: 1440px;
+  height: 2.5px;
+  object-fit: contain;
+}
+.ellipse-circle-icon {
+  position: absolute;
+  height: calc(100% - 2px);
+  top: 0px;
+  bottom: 2px;
+  left: 82px;
+  border-radius: 50%;
+  max-height: 100%;
+  width: 193px;
+  object-fit: cover;
+  z-index: 1;
+}
+.vector-parent {
+  align-self: stretch;
+  height: 186px;
+  position: relative;
+}
+.rectangle-shape-icon {
+  height: 752px;
+  width: 394px;
+  position: relative;
+  object-fit: cover;
+  max-width: calc(100% - 998px);
+}
+.benefits-of-growing {
+  margin: 0;
+}
+.cost-effective-we {
+  margin-bottom: 0px;
+}
+.cost-effective-we-all-know-t {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-24xl);
+}
+.benefits-of-growing-container {
+  align-self: stretch;
+  height: 702px;
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.benefits-of-growing-your-own-s-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 33px 0px 0px;
+  box-sizing: border-box;
+  max-width: calc(100% - 432px);
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.text-info {
+  width: 1412px;
+  height: 735px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-19xl);
+  max-width: 100%;
+}
+.information {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+  letter-spacing: normal;
+}
+
+@media screen and (max-width: 1200px) {
+  .rectangle-shape-icon {
+    max-width: 100%;
+  }
+
+  .benefits-of-growing-your-own-s-wrapper {
+    display: none;
+  }
+}
+@media screen and (max-width: 750px) {
+  .text-info {
+    gap: var(--gap-lgi);
+  }
+
+  .information {
+    gap: var(--gap-lgi);
+  }
+}
+@media screen and (max-width: 675px) {
+  .benefits-of-growing-container {
+    font-size: var(--font-size-lgi);
+  }
+}
+@media screen and (max-width: 450px) {
+  .rectangle-shape-icon {
+    display: none;
+  }
+
+  .benefits-of-growing-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .benefits-of-growing-your-own-s-wrapper {
+    max-width: 100%;
+  }
+}

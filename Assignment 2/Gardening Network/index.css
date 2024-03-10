@@ -1,0 +1,650 @@
+<<<<<<< HEAD
+.child-ellipse-icon {
+=======
+.line-child {
+
+>>>>>>> Incoming
+  position: absolute;
+<<<<<<< HEAD
+=======
+  top: 177.5px;
+  left: 0px;
+  width: 1440px;
+  height: 6.5px;
+  object-fit: contain;
+}
+.line-item {
+  position: absolute;
+
+>>>>>>> Incoming
+  height: 100%;
+<<<<<<< HEAD
+  top: 0;
+  bottom: 0;
+  left: 86px;
+=======
+  top: 0px;
+  bottom: 0px;
+  left: 95px;
+
+>>>>>>> Incoming
+  border-radius: 50%;
+  max-height: 100%;
+<<<<<<< HEAD
+  width: 210px;
+=======
+  width: 193px;
+
+>>>>>>> Incoming
+  object-fit: cover;
+<<<<<<< HEAD
+=======
+  z-index: 1;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.parent-frame-child {
+=======
+.line {
+  height: 184px;
+  width: 1440px;
+
+>>>>>>> Incoming
+  position: absolute;
+<<<<<<< HEAD
+  top: 183.5px;
+  left: 0;
+  width: 1440px;
+  height: 0.5px;
+  object-fit: contain;
+  z-index: 1;
+=======
+  margin: 0 !important;
+  top: -124px;
+  right: -747px;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.parent-frame {
+  align-self: stretch;
+  height: 184px;
+=======
+.tips1 {
+  height: 42px;
+  width: 71px;
+
+>>>>>>> Incoming
+  position: relative;
+<<<<<<< HEAD
+=======
+  display: inline-block;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.child-rectangle-icon {
+  height: 836px;
+  width: 513px;
+=======
+.line-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+>>>>>>> Incoming
+  position: relative;
+<<<<<<< HEAD
+  object-fit: cover;
+=======
+}
+.tip-box {
+  width: 1105px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.child-rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+=======
+.nutrient-rich-gardening-soil1 {
+  text-decoration: underline;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.sign-up-as {
+  position: absolute;
+  top: 24px;
+  left: 150px;
+  z-index: 1;
+=======
+.nutrient-rich-gardening-soil {
+  color: inherit;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.sign-up-button {
+  height: 96px;
+=======
+.plants-always-benefit-container {
+  height: 70px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.sign-in,
+.sign-up-button,
+.third-level-frame-child {
+=======
+.plants-always-benefit-from-the-wrapper {
+
+>>>>>>> Incoming
+  align-self: stretch;
+<<<<<<< HEAD
+  position: relative;
+=======
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-9xs) 0px var(--padding-3xs);
+  box-sizing: border-box;
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.third-level-frame-child {
+=======
+.improving-the-quality {
+  height: 105px;
+
+>>>>>>> Incoming
+  flex: 1;
+<<<<<<< HEAD
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+=======
+  position: relative;
+  display: inline-block;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.sign-in {
+  height: 59px;
+=======
+.text1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-3xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.some-plants-like {
+  margin: 0;
+}
+.some-plants-like-container {
+  align-self: stretch;
+  height: 105px;
+  position: relative;
+
+>>>>>>> Incoming
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.sign-in-wrapper {
+  width: 252px;
+=======
+.text {
+  align-self: stretch;
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  margin-left: -238px;
+=======
+  gap: 29.5px;
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.third-level-frame,
+.third-level-frame-wrapper {
+=======
+.within-the-garden-container {
+  height: 105px;
+  width: 1255px;
+  position: relative;
+  display: inline-block;
+}
+.within-the-garden-beds-place-wrapper {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+<<<<<<< HEAD
+=======
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-3xs);
+}
+.text-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-19xl);
+
+>>>>>>> Incoming
+  max-width: 100%;
+<<<<<<< HEAD
+=======
+  text-align: left;
+  font-size: var(--font-size-10xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.third-level-frame {
+  width: 369px;
+=======
+.contact-us {
+  margin: 0;
+  width: 224px;
+  height: 48px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.abccompanycom {
+  height: 23px;
+  width: 177px;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+}
+.abccompany {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: flex-start;
+<<<<<<< HEAD
+=======
+  padding: 0px 0px 0px 5px;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.third-level-frame-wrapper {
+  height: 65px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+=======
+.empty-frame {
+  width: 153px;
+  height: 23px;
+  position: relative;
+  display: inline-block;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.grandchild-rectangle,
+.nested-frame {
+=======
+.abccompany-parent {
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: column;
+<<<<<<< HEAD
+=======
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: flex-start;
+<<<<<<< HEAD
+  max-width: 100%;
+=======
+  gap: var(--gap-xl);
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.grandchild-rectangle {
+=======
+.tips-column-icon {
+  height: 75px;
+  width: 78px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  min-height: 75px;
+}
+.ellipse-group {
+
+>>>>>>> Incoming
+  align-self: stretch;
+  display: flex;
+<<<<<<< HEAD
+=======
+  flex-direction: row;
+
+>>>>>>> Incoming
+  align-items: flex-start;
+<<<<<<< HEAD
+  gap: 72px 0;
+=======
+  justify-content: space-between;
+  gap: var(--gap-xl);
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.nested-frame {
+  width: 606px;
+  padding: 209px 0 0;
+=======
+.triple-ellipses {
+  width: 302px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0px 0px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+  min-width: 606px;
+}
+<<<<<<< HEAD
+.home,
+.nested-frame,
+.secondary-frame {
+=======
+.contact-frame {
+  flex: 1;
+
+>>>>>>> Incoming
+  display: flex;
+<<<<<<< HEAD
+=======
+  flex-direction: row;
+
+>>>>>>> Incoming
+  align-items: flex-start;
+<<<<<<< HEAD
+=======
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.secondary-frame {
+  width: 1346px;
+=======
+.ellipse {
+  align-self: stretch;
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: row;
+<<<<<<< HEAD
+  justify-content: space-between;
+  padding: 0 var(--padding-xl) 0 0;
+=======
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-9xs);
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+  max-width: 100%;
+<<<<<<< HEAD
+=======
+  font-size: var(--font-size-lgi);
+}
+.text2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+>>>>>>> Incoming
+  gap: var(--gap-xl);
+<<<<<<< HEAD
+=======
+  max-width: 100%;
+}
+.text-wrapper {
+  width: 1136px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-7xs);
+  box-sizing: border-box;
+  max-width: 100%;
+
+>>>>>>> Incoming
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+<<<<<<< HEAD
+.home {
+=======
+.large-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 119px;
+  max-width: 100%;
+}
+.tips {
+
+>>>>>>> Incoming
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+<<<<<<< HEAD
+=======
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: column;
+<<<<<<< HEAD
+=======
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: flex-start;
+<<<<<<< HEAD
+  gap: 4px 0;
+=======
+  padding: 130px 70px var(--padding-17xl) var(--padding-86xl);
+  box-sizing: border-box;
+  gap: 60px;
+
+>>>>>>> Incoming
+  letter-spacing: normal;
+<<<<<<< HEAD
+=======
+  text-align: left;
+  font-size: 35px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+@media screen and (max-width: 1125px) {
+  .child-rectangle-icon,
+  .nested-frame {
+    flex: 1;
+=======
+
+@media screen and (max-width: 750px) {
+  .tips1 {
+    font-size: 28px;
+
+>>>>>>> Incoming
+  }
+<<<<<<< HEAD
+  .secondary-frame {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .sign-up-as {
+=======
+
+  .contact-us {
+
+>>>>>>> Incoming
+    font-size: var(--font-size-13xl);
+  }
+<<<<<<< HEAD
+=======
+
+  .tips {
+    gap: var(--gap-11xl);
+    padding-left: var(--padding-33xl);
+    padding-right: var(--padding-16xl);
+    box-sizing: border-box;
+  }
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+@media screen and (max-width: 750px) {
+  .grandchild-rectangle {
+    gap: 36px 0;
+=======
+@media screen and (max-width: 675px) {
+  .text-parent {
+    gap: var(--gap-lgi);
+
+>>>>>>> Incoming
+  }
+<<<<<<< HEAD
+  .nested-frame {
+    min-width: 100%;
+=======
+
+  .contact-frame {
+    flex-wrap: wrap;
+
+>>>>>>> Incoming
+  }
+<<<<<<< HEAD
+=======
+
+  .large-frame {
+    gap: 59px;
+  }
+
+>>>>>>> Incoming
+}
+@media screen and (max-width: 450px) {
+<<<<<<< HEAD
+  .sign-up-as {
+=======
+  .tips1 {
+    font-size: 21px;
+  }
+
+  .plants-always-benefit-container {
+    font-size: var(--font-size-4xl);
+  }
+
+  .improving-the-quality {
+    font-size: var(--font-size-4xl);
+  }
+
+  .some-plants-like-container {
+    font-size: var(--font-size-4xl);
+  }
+
+  .within-the-garden-container {
+    font-size: var(--font-size-4xl);
+  }
+
+  .contact-us {
+
+>>>>>>> Incoming
+    font-size: var(--font-size-5xl);
+  }
+<<<<<<< HEAD
+  .grandchild-rectangle {
+    gap: 18px 0;
+=======
+
+  .large-frame {
+    gap: var(--gap-11xl);
+
+>>>>>>> Incoming
+  }
+<<<<<<< HEAD
+  .nested-frame {
+    padding-top: 136px;
+=======
+
+  .tips {
+    gap: 15px;
+    padding-left: var(--padding-xl);
+
+>>>>>>> Incoming
+    box-sizing: border-box;
+  }
+}

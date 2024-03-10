@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Gardening Network",
+    "id": "65ec08cac1367122e5e83daa",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "d:\\silver oak\\2302031030072\\Assignment 2\\Gardening Network\\src\\components",
+    "screensPath": "d:\\silver oak\\2302031030072\\Assignment 2\\Gardening Network\\src\\pages"
+  }
+}

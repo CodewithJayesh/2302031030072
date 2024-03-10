@@ -1,0 +1,469 @@
+<<<<<<< HEAD
+.ellipse-shape-icon {
+=======
+.ellipse-shape-icon1 {
+
+>>>>>>> Incoming
+  width: 210px;
+  height: 184px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.text-frame-label-name-child {
+  height: 40px;
+  width: 433px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.user-name {
+=======
+.user-name1 {
+  height: 20px;
+
+>>>>>>> Incoming
+  width: 141px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.text-frame-label-name,
+.user-name-frame {
+=======
+.text-frame-label-name {
+  flex: 1;
+  background-color: var(--color-gainsboro);
+
+>>>>>>> Incoming
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+=======
+  padding: var(--padding-3xs) 16px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+<<<<<<< HEAD
+=======
+  white-space: nowrap;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+<<<<<<< HEAD
+.text-frame-label-name {
+  flex: 1;
+  background-color: var(--color-gainsboro);
+  padding: 10px 16px;
+  white-space: nowrap;
+}
+.user-name-frame {
+=======
+.user-name-frame1 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+<<<<<<< HEAD
+  padding: 0 var(--padding-11xs) 0 0;
+=======
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-11xs) 0px 0px;
+  box-sizing: border-box;
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.password-frame-child {
+=======
+.password-frame-inner {
+
+>>>>>>> Incoming
+  height: 38px;
+  width: 433px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+}
+.email-id {
+  height: 26px;
+  width: 107px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.password-frame,
+.password-frame-item {
+=======
+.password-frame2 {
+  align-self: stretch;
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  max-width: 100%;
+}
+.password-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) var(--padding-sm);
+  box-sizing: border-box;
+  white-space: nowrap;
+<<<<<<< HEAD
+=======
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.password-frame-item {
+  height: 40px;
+  width: 433px;
+  position: relative;
+  display: none;
+}
+.password {
+=======
+.password2 {
+
+>>>>>>> Incoming
+  height: 32px;
+  width: 130px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.password-frame-inner,
+.password-frame1 {
+=======
+.password-frame3 {
+  align-self: stretch;
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  max-width: 100%;
+}
+.password-frame1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: var(--padding-5xs) var(--padding-sm) 0;
+=======
+  padding: var(--padding-5xs) var(--padding-sm) 0px;
+
+>>>>>>> Incoming
+  box-sizing: border-box;
+  white-space: nowrap;
+<<<<<<< HEAD
+=======
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+.password-frame-inner {
+  height: 40px;
+  width: 433px;
+  position: relative;
+  display: none;
+}
+.confirm-password {
+  height: 31px;
+  width: 227px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+<<<<<<< HEAD
+.email-id-frame,
+.password-frame2 {
+=======
+.password-frame4 {
+
+>>>>>>> Incoming
+  align-self: stretch;
+<<<<<<< HEAD
+=======
+  background-color: var(--color-gainsboro);
+
+>>>>>>> Incoming
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.password-frame2 {
+  background-color: var(--color-gainsboro);
+  flex-direction: row;
+  align-items: flex-start;
+<<<<<<< HEAD
+=======
+  justify-content: flex-start;
+
+>>>>>>> Incoming
+  padding: var(--padding-12xs) var(--padding-sm) var(--padding-5xs);
+  box-sizing: border-box;
+  white-space: nowrap;
+<<<<<<< HEAD
+=======
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+.email-id-frame {
+<<<<<<< HEAD
+=======
+  align-self: stretch;
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: column;
+  align-items: flex-end;
+<<<<<<< HEAD
+  gap: 36px 0;
+=======
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+  max-width: 100%;
+
+>>>>>>> Incoming
+}
+.frame-with-three-frames-child {
+  height: 32px;
+  width: 118px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.sign-up1 {
+<<<<<<< HEAD
+=======
+  height: 28px;
+
+>>>>>>> Incoming
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+<<<<<<< HEAD
+=======
+  display: inline-block;
+
+>>>>>>> Incoming
+  z-index: 1;
+}
+.frame-with-three-frames,
+.sign-up-button1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-with-three-frames {
+  cursor: pointer;
+<<<<<<< HEAD
+  border: 0;
+  padding: 4px 0 0 28px;
+=======
+  border: none;
+  padding: var(--padding-9xs) 0px 0px var(--padding-9xl);
+
+>>>>>>> Incoming
+  background-color: var(--color-gainsboro);
+  width: 118px;
+<<<<<<< HEAD
+=======
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: flex-end;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.frame-with-three-frames:hover {
+  background-color: var(--color-silver);
+}
+.sign-up-button1 {
+  align-self: stretch;
+<<<<<<< HEAD
+=======
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: center;
+<<<<<<< HEAD
+  padding: 0 var(--padding-xl);
+=======
+  padding: 0px var(--padding-xl);
+
+>>>>>>> Incoming
+}
+<<<<<<< HEAD
+.inner-frame {
+=======
+.inner-frame2 {
+
+>>>>>>> Incoming
+  margin: 0;
+  width: 435px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+<<<<<<< HEAD
+  gap: 47px 0;
+=======
+  gap: var(--gap-28xl);
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+.parent-frame1,
+.sign-up {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.parent-frame1 {
+  align-self: stretch;
+<<<<<<< HEAD
+=======
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: row;
+<<<<<<< HEAD
+=======
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: center;
+<<<<<<< HEAD
+  padding: 0 0 0 3px;
+=======
+  padding: 0px 0px 0px 3px;
+  box-sizing: border-box;
+
+>>>>>>> Incoming
+  max-width: 100%;
+}
+.sign-up {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+<<<<<<< HEAD
+=======
+  display: flex;
+
+>>>>>>> Incoming
+  flex-direction: column;
+<<<<<<< HEAD
+=======
+  align-items: flex-start;
+
+>>>>>>> Incoming
+  justify-content: flex-start;
+<<<<<<< HEAD
+  padding: 0 72px 262px;
+  gap: 233px 0;
+=======
+  padding: 0px 72px 262px;
+  box-sizing: border-box;
+  gap: 233px;
+
+>>>>>>> Incoming
+  letter-spacing: normal;
+}
+<<<<<<< HEAD
+@media screen and (max-width: 725px) {
+=======
+
+@media screen and (max-width: 675px) {
+
+>>>>>>> Incoming
+  .sign-up {
+<<<<<<< HEAD
+    gap: 116px 0;
+=======
+    gap: 116px;
+
+>>>>>>> Incoming
+    padding-left: var(--padding-17xl);
+    padding-right: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .email-id-frame {
+<<<<<<< HEAD
+    gap: 18px 0;
+=======
+    gap: var(--gap-lg);
+
+>>>>>>> Incoming
+  }
+<<<<<<< HEAD
+  .inner-frame {
+    gap: 23px 0;
+=======
+
+  .inner-frame2 {
+    gap: 23px;
+
+>>>>>>> Incoming
+  }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> Incoming
+  .sign-up {
+<<<<<<< HEAD
+    gap: 58px 0;
+=======
+    gap: 58px;
+
+>>>>>>> Incoming
+  }
+}
